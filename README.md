@@ -8,5 +8,6 @@ If you are using Debian or Ubuntu and related Linux distributions, you can insta
 ```sh
 $ sudo apt-get install libglew-dev
 $ sudo apt-get install libglfw3-dev
+$ sudo apt-get install libglm-dev
 ```
 
